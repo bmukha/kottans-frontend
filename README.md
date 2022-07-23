@@ -6,11 +6,12 @@
 
 <details>
 <summary>General</summary>
-<br>
+    <br>
     <details>
         <summary>0. Git basics</summary>
         <br>
-        This is how you dropdown.
+        [Coursera week 1](./screenshots/stage0/General/0.Git-basics/coursera_git_1.resized.png)
+        [Coursera week 2](/screenshots/stage0/General/0.Git-basics/coursera_git_2.resized.png)
     </details>
     <details>
         <summary>1. Linux CLI and Networking</summary>
