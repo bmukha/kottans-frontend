@@ -10,8 +10,7 @@
     <details>
         <summary>0. Git basics</summary>
         <br>
-        <img src="https://github.com/bmukha/kottans-frontend/blob/main/screenshots/stage0/General/0.Git-basics/coursera_git_1.resized.png" alt="coursera week 1">
-        <img src="https://github.com/bmukha/kottans-frontend/blob/main/screenshots/stage0/General/0.Git-basics/coursera_git_2.resized.png" alt="coursera week 2">
+        ![git_intro-CC-guide](/screenshots/stage0/General/0.Git-basics/coursera_git_1.resized.png)
     </details>
     <details>
         <summary>1. Linux CLI and Networking</summary>
