@@ -4,26 +4,19 @@
 
 ---
 
-<details>
-<summary>General</summary>
-    <br>
-    <details>
-        <summary>0. Git basics</summary>
-        <br>
-        <img srs="./coursera_git_1.resized.png" alt="coursera-1">
-    </details>
-    <details>
-        <summary>1. Linux CLI and Networking</summary>
-        <br>
-        This is how you dropdown.
-    </details>
-    <details>
-        <summary>2. VCS (hello gitty), GitHub and Collaboration</summary>
-        <br>
-        This is how you dropdown.
-    </details>
-    
-    
-    
-    
+<details><summary>General</summary>
+<br>
+
+<details><summary>0. Git basics</summary>
+<br>
+
+Though I have worked with Git before, I've used only basic push and pool commands. So, basically, everything was new for me in this course. The thing that impressed me the most is the sheer possibility that GIT provides. I will definitely use rebasing, merging and cherry-picking in the future.
+
+![coursera1](./img/stage0/General/0.Git-basics/coursera_git_1.resized.png)
+![coursera2](./img/stage0/General/0.Git-basics/coursera_git_2.resized.png)
+![learngitbranching1](./img/stage0/General/0.Git-basics/learngitbranching_1.png)
+![learngitbranching2](./img/stage0/General/0.Git-basics/learngitbranching_2.png)
+
+</details>
+
 </details>
