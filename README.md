@@ -10,7 +10,7 @@
     <details>
         <summary>0. Git basics</summary>
         <br>
-        ![git_intro-CC-guide](/screenshots/stage0/General/0.Git-basics/coursera_git_1.resized.png)
+        <img srs="./coursera_git_1.resized.png" alt="coursera-1">
     </details>
     <details>
         <summary>1. Linux CLI and Networking</summary>
