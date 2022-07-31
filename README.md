@@ -4,6 +4,18 @@
 
 ---
 
+<details><summary>2. Git Collaboration</summary>
+<br>
+
+Basically all the collaboration stuff was new for me. I can't say anything was particularly surprising, but all those fancy workflows definitely will be useful during my future day-to-day working process.
+
+![coursera3](./task_git_collaboration/coursera_git_3.resized.png)
+![coursera4](./task_git_collaboration/coursera_git_4.resized.png)
+![learngitbranching1](./task_git_collaboration/learngitbranching_1.png)
+![learngitbranching2](./task_git_collaboration/learngitbranching_2.png)
+
+</details>
+
 <details><summary>1. Linux CLI, and HTTP</summary>
 <br>
 
