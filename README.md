@@ -4,6 +4,16 @@
 
 ---
 
+<details><summary>3. Intro to HTML and CSS</summary>
+<br>
+
+A lot of new things in this one, to be honest. Though I've had some previous familiarity with CSS, basically all of the Typography stuff was new and sometimes surprising for me. But I can definitely see how usefull this knowledge can be in the future.
+
+![coursera1](./task_html_css_intro/coursera_html_css_1.png)
+![coursera2](./task_html_css_intro/coursera_html_css_1.png)
+![codeacademy](./task_html_css_intro/codeacademy-html-css.png)
+
+</details>
 <details><summary>2. Git Collaboration</summary>
 <br>
 
