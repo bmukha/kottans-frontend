@@ -4,6 +4,16 @@
 
 ---
 
+<details><summary>4. Responsive Web Design</summary>
+<br>
+
+Everything was new for me here, and sheer amount of ways you can do stuff with grid is definitely surprising, if not to say terrifying, lol ) But I had a lot of fun with froggies and garden though.
+
+![flexbox](./task_responsive_web_design/flexbox.png)
+![grid](./task_responsive_web_design/grid.png)
+
+</details>
+
 <details><summary>3. Intro to HTML and CSS</summary>
 <br>
 
