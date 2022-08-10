@@ -7,7 +7,7 @@
 <details><summary>6. JS Basics</summary>
 <br>
 
-This chapter took me a couple days to complete because of weekend and whatnot. Intro to JS from John Hopkins University is a bit outdated, but I brushed up my knowledge of basics regardless. And in the process of doing tasks on FreeCodeCamp I have solidified my understanding of functional programming and familiarized myself with couple useful array and string methods I have never used before.
+This chapter took me a couple days to complete because of weekend and whatnot. Intro to JS from John Hopkins University is a bit outdated, but I brushed up my knowledge of basics regardless. And in the process of doing tasks on FreeCodeCamp I have solidified my understanding of functional programming and familiarized myself with couple of useful array and string methods I have never used before.
 
 ![coursera-week-4](./task_js_basics/coursera_js_week4.resized.png)
 ![freecodecamp1](./task_js_basics/freecodecamp1.png)
