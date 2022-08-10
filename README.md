@@ -4,6 +4,25 @@
 
 ---
 
+<details><summary>6. JS Basics</summary>
+<br>
+
+This chapter took me a couple days to complete because of weekend and whatnot. Intro to JS from John Hopkins University is a bit outdated, but I brushed up my knowledge of basics regardless. And in the process of doing tasks on FreeCodeCamp I have solidified my understanding of functional programming and familiarized myself with couple useful array and string methods I have never used before.
+
+![coursera-week-4](./task_js_basics/coursera_js_week4.resized.png)
+![freecodecamp1](./task_js_basics/freecodecamp1.png)
+![freecodecamp2](./task_js_basics/freecodecamp2.png)
+![freecodecamp3](./task_js_basics/freecodecamp3.png)
+![freecodecamp4](./task_js_basics/freecodecamp4.png)
+![freecodecamp5](./task_js_basics/freecodecamp5.png)
+![freecodecamp6](./task_js_basics/freecodecamp6.png)
+
+</details>
+
+<details><summary>5. HTML-CSS-Popup(not done yet)</summary>
+<br>
+</details>
+
 <details><summary>4. Responsive Web Design</summary>
 <br>
 
