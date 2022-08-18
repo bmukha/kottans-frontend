@@ -4,6 +4,18 @@
 
 ---
 
+<details><summary>8. Building a Tiny JS World (pre-OOP)</summary>
+<br>
+
+Underwent couple of rounds of code review with this task and learned a lot in
+the process. For example, optional chaining operator was totally new concept for
+me. So, I hope now I have one more tool on my belt.
+
+[Tiny JS World code](https://github.com/bmukha/a-tiny-JS-world)
+[Tiny JS World demo](https://bmukha.github.io/a-tiny-JS-world/)
+
+</details>
+
 <details><summary>7. DOM(not done yet)</summary>
 <br>
 
