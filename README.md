@@ -16,11 +16,20 @@ me. So, I hope now I have one more tool on my belt.
 
 </details>
 
-<details><summary>7. DOM(not done yet)</summary>
+<details><summary>7. DOM</summary>
 <br>
+
+This one took me much longer than I expected. Struggled a bit with design and
+underwent a couple of iterations of code review. And learned quite a bit in the
+process. All the points that my mentor have suggested where definitely valid and
+improved my code a lot. Also got couple of suggestions about code style and will
+be using them in the future for sure.
 
 ![coursera-week-5](./task_js_dom/coursera-dom.png)
 ![freecodecamp-algos](./task_js_dom/freecodecamp-algos.png)
+
+Dom exersise: [Demo](https://bmukha.github.io/kottans-dom/)
+[Codebase](https://github.com/bmukha/kottans-dom)
 
 </details>
 
