@@ -28,8 +28,7 @@ be using them in the future for sure.
 ![coursera-week-5](./task_js_dom/coursera-dom.png)
 ![freecodecamp-algos](./task_js_dom/freecodecamp-algos.png)
 
-Dom exersise: [Demo](https://bmukha.github.io/kottans-dom/)
-[Codebase](https://github.com/bmukha/kottans-dom)
+Dom exersise: [Demo](https://bmukha.github.io/kottans-dom/) | [Codebase](https://github.com/bmukha/kottans-dom)
 
 </details>
 
