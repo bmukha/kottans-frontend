@@ -4,6 +4,20 @@
 
 ---
 
+<details><summary>9. Object oriented JS</summary>
+<br>
+
+Codewars part of this chapter of my journey was pretty easy, since I had my
+account a couple of years now. Frogger was very fun to implement. Mage my bugs
+respawn and move in two opposite directions. As always learned a lot from the
+code reviews.
+
+![Codewars profile](./task_js_oop/codewars.png)
+[Frogger code](https://github.com/bmukha/frontend-nanodegree-arcade-game)
+[Frogger demo](https://bmukha.github.io/frontend-nanodegree-arcade-game/)
+
+</details>
+
 <details><summary>8. Building a Tiny JS World (pre-OOP)</summary>
 <br>
 
@@ -28,7 +42,8 @@ be using them in the future for sure.
 ![coursera-week-5](./task_js_dom/coursera-dom.png)
 ![freecodecamp-algos](./task_js_dom/freecodecamp-algos.png)
 
-Dom exersise: [Demo](https://bmukha.github.io/kottans-dom/) | [Codebase](https://github.com/bmukha/kottans-dom)
+Dom exersise: [Demo](https://bmukha.github.io/kottans-dom/) |
+[Codebase](https://github.com/bmukha/kottans-dom)
 
 </details>
 
