@@ -4,6 +4,17 @@
 
 ---
 
+<details><summary>10. OOP exersise</summary>
+<br>
+
+This task was unexpectedly though for me - should definitely study OOP more
+deeply as soon as possible.
+
+[Tiny JS World code](https://github.com/bmukha/a-tiny-JS-world)
+[Tiny JS World demo](https://bmukha.github.io/a-tiny-JS-world/)
+
+</details>
+
 <details><summary>9. Object oriented JS</summary>
 <br>
 
